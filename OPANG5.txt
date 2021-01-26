@@ -1,0 +1,6 @@
+{
+  "verifiableCredential": [
+    "<<Verifiable Credential as JWE or JWS>>",
+    "<<Verifiable Credential as JWE or JWS>>"
+  ]
+}
